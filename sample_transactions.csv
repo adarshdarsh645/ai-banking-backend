@@ -1,0 +1,6 @@
+description,amount,txn_type,txn_date,posted_date,category,currency,merchant
+Grocery shopping,54.99,debit,2024-01-15,2024-01-16,Food & Dining,USD,Walmart
+Salary deposit,3000.00,credit,2024-01-01,2024-01-01,Income,USD,Employer Inc.
+Netflix subscription,15.99,debit,2024-01-10,2024-01-11,Entertainment,USD,Netflix
+Electric bill,110.50,debit,2024-01-20,2024-01-21,Utilities,USD,City Power Co.
+Freelance payment,500.00,credit,2024-01-25,,Income,USD,Client LLC
